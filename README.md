@@ -7,5 +7,6 @@ example of github!
 # hello from another universe
 **I can get used to this technique of github. its easy! **
 
-
-
+# hello from atom
+**a hackable text editor for 21st century**
+Download atom [here](https://atom.io/)
