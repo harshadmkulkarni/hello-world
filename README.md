@@ -10,3 +10,6 @@ example of github!
 # hello from atom
 **a hackable text editor for 21st century**
 Download atom [here](https://atom.io/)
+
+# helloworld from new atom installation
+# i love github!!
